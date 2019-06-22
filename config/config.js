@@ -1,0 +1,1 @@
+module.exports.SEED = '-sh@nk5@-seed-5h@nk5-@';
